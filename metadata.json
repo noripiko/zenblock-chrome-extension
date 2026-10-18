@@ -1,0 +1,6 @@
+{
+  "name": "ZenBlock - SNS誘惑ブロッカー＆拡張機能作成ツール",
+  "description": "SNSや特定ドメインのアクセスを遮断・警告するChrome拡張機能の作成、実機用ZIPパッケージ生成、およびスマホ（Kiwi/Orion等）対応ガイドと動作シミュレーター",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
